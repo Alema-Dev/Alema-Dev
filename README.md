@@ -1,12 +1,12 @@
-## Hola! 👋
+## Hey! 👋
 
-Soy Alexis, desarrollador backend en formación, viviendo en Argentina.
+I'm Alexis, a backend developer based in Argentina.
 
-Me especializo en el desarrollo de APIs REST con Java y Spring Boot,
-con foco en arquitectura limpia, lógica de negocio y buenas prácticas.
+I specialize in building REST APIs with Java and Spring Boot,
+focusing on clean architecture, business logic and best practices.
 
-**Stack principal:**
-Java · Spring Boot · Spring Data JPA · Hibernate · PostgreSQL ·
+**Main stack:**
+Java · Spring Boot · Spring Data JPA · Hibernate · PostgreSQL · 
 MapStruct · JUnit 5 · Mockito · Maven · Git · Swagger / OpenAPI
 
-Actualmente aprendiendo: Spring Security · Docker
+Currently learning: Spring Security · Docker
